@@ -1,0 +1,3 @@
+This has been a hectic couple of days. I came from the night course and we work way faster here in the day course. Today I was stressing out because I thought there was no way we were going to be able to finish in time and the instructors were asking way too much from us. After that we figured one thing out and I just felt this spark that told me ok... you can do this :). 
+This is only for 15 days and then its project week, and the first days are probably the hardest because everything is brand new. 
+Thankfully everyone here is supportive and I'm ready to move on to the next day. 
