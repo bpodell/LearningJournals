@@ -1,0 +1,4 @@
+# LJ Code 301 - Day 5
+
+This week I've learned a ton. First a very important lesson I've learned about coding is everyone has a different style. By forcing us to peer program every day you see how everyone tackles problems different ways, how people deal with getting stuck, how people search for answers etc.. 
+I've also learned a ton about HTML and JS. We've learned how to use jQuery to get javascript elements to display directly to an HTML page. We've learned Handlebars as well to further expedite that process. We've also learned a few ways to make our code easier to write and to read by using processes like ternary and arrow functions. We are learning a lot very fast and once we've learned something we jump right into a new way to do it, so I'm excited to see what's up next. 
