@@ -1,0 +1,3 @@
+# LJ Code 301 - Day 7
+
+Today was a pretty good day. We learned how to get something from a server using $.ajax or $.get. We then learned how to manipulate that information, today we set it to local storage. Over we the weekend was stressful because it was a lot of assignments and we were working without partners for the first time in this class. I'm learning a lot about how to manipulate arrays from our codewars challenges. This week has been going a lot better than week 1 so far, hopefully that continues :). 
