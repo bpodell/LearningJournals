@@ -1,0 +1,7 @@
+# LJ Code 301 - Day 7
+
+This week has beein going well so far, we have mostly been working on the theory of how the Model View Controller work together. The view is what the user sees, the controller is the server which lets the database (model) communicate with each other. We have also learned about node, which we have been using as our own personal server. Important things about node, when initializing use "nmp i" in the terminal to install any required node modules that you will need to launch the program. 
+We learned about the request response cycle used for the view to talk to the server. Routes are how these two speak to each other, so for example if i place a call for a $.get('/articles) then there is a corresponding listener on the server for app.get('/articles). 
+.then functions are used in asynchronus functions, which dont run in order, they run as soon as they can. .then functions are then helpful because they will only run after a certain action is completed, ensuring that the function is only running when it has all its required information. 
+query and result is the same path except for server and DB. 
+We also started learing SQL today, which is just a database management system. Allows us to view, create, update, and delete rows in a table. 
